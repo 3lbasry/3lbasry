@@ -2,9 +2,9 @@
 
 ### 💻 Software Engineering Student | Backend Developer in Progress
 
-I'm a Software Engineering student passionate about backend development and building reliable, scalable APIs.
+I'm a Software Engineering student passionate about backend development and building scalable, reliable server-side applications.
 
-Currently, I'm focused on mastering Python and FastAPI while strengthening my knowledge of PostgreSQL, Git, Linux, and software engineering principles.
+Currently, I'm focused on mastering the JavaScript backend ecosystem with **Node.js** and **Express.js**, while strengthening my knowledge of databases, software architecture, and backend engineering best practices.
 
 I enjoy learning by building real-world projects, solving problems, and sharing my journey in public. My goal is to become a professional backend engineer and contribute to impactful software.
 
@@ -12,63 +12,75 @@ I enjoy learning by building real-world projects, solving problems, and sharing 
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student
-- 🐍 Learning Backend Development with Python & FastAPI
-- 🗄️ Working with PostgreSQL
-- 🐧 Daily Linux User (Fedora)
-- 🌱 Currently learning Docker, Testing, and Backend Architecture
-- 📚 Always building projects and improving my skills
-- 🌍 Based in Kigali, Rwanda
+* 🎓 Software Engineering Student
+* 🟢 Learning Backend Development with Node.js & Express.js
+* 🗄️ Working with PostgreSQL
+* 🐧 Daily Linux User (Fedora)
+* 🌱 Currently learning REST APIs, Docker, Testing, and Backend Architecture
+* 📚 Always building projects and improving my skills
+* 🌍 Based in Kigali, Rwanda
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- SQL
-- C++
+
+* JavaScript
+* SQL
+* C++
+* TypeScript
+  
 
 ### Backend
-- FastAPI
-- REST APIs
+
+* Node.js
+* Express.js
+* REST APIs
 
 ### Database
-- PostgreSQL
+
+* PostgreSQL
+* MangoDB
+* Firebase
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Bruno
-- DBeaver
+
+* Git
+* GitHub
+* VS Code
+* Bruno
+* DBeaver
 
 ### Operating System
-- Fedora Linux 
 
+* Fedora Linux
 
 ---
 
 ## 📖 Currently Learning
 
-- FastAPI
-- PostgreSQL
-- Docker
-- Testing
-- Clean Architecture
-- Authentication & Authorization
-- API Design
+* Node.js
+* Express.js
+* PostgreSQL
+* Docker
+* Testing
+* Authentication & Authorization
+* Clean Architecture
+* API Design
+* NestJS (Next Step)
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build production-ready backend projects
-- Master FastAPI
-- Learn Docker
-- Contribute to Open Source
-- Land a Backend Internship
-- Grow as a Software Engineer
+* Build production-ready backend applications
+* Master Node.js & Express.js
+* Learn NestJS
+* Learn Docker
+* Contribute to Open Source
+* Land a Backend Internship
+* Grow as a Software Engineer
 
 ---
 
@@ -82,10 +94,10 @@ I'm currently building backend projects that will be published here.
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn:(https://linkedin.com/in/3lbasry)
-- 🌐 Portfolio: Coming Soon
-- 📫 Email: contact.elbasry@gmail.com
+* 💼 LinkedIn: https://linkedin.com/in/3lbasry
+* 🌐 Portfolio: Coming Soon
+* 📫 Email: [contact.elbasry@gmail.com](mailto:contact.elbasry@gmail.com)
 
 ---
 
-> "Learn continuously. Build consistently. Improve every day."
+> **"Learn continuously. Build consistently. Improve every day."**
