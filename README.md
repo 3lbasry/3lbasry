@@ -22,7 +22,7 @@ I share what I learn and what I build along the way.
 
 ### Now
 
-- Learning networking and security fundamentals
+- Learning networking and security 
 - Building portfolio projects in design and web
 - Documenting the journey
 
