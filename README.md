@@ -30,7 +30,7 @@ I share what I learn and what I build along the way.
 
 | Area | What it looks like |
 | --- | --- |
-| Networking & Security | Fundamentals, labs, and notes as I learn |
+| Networking & Security | Content, labs, and notes as I learn |
 | Design | Brand identity, UI/UX, motion graphics |
 | Digital builds | Landing pages, web projects, app concepts |
 
